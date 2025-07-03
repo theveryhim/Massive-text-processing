@@ -6,14 +6,14 @@ Some of tasks done in this Repo([papers' dataset](https://drive.google.com/file/
 - Calculate the number of articles in each category (e.g., ph-hep or co.math).
 - Identify the category that has the most articles.
 - Analyze the distribution of the number of authors in each article. 
-<div style="text-align: center;">
-    <img src="1.png" alt="Alt Text" width="300">
-</div>
+<p align="center">
+    <img src="1.png" alt="Descriptive Alt Text" class="fit-width-image">
+</p>
 - Filter articles that have more than three authors and list their titles and authors. 
 - Draw the number of articles registered in each year. 
-<div style="text-align: center;">
-    <img src="2.png" alt="Alt Text" width="300">
-</div>
+<p align="center">
+    <img src="2.png" alt="Descriptive Alt Text" class="fit-width-image">
+</p>
 
 - Extract and display 20 frequently used words in the abstract section of the article.
 ```markdown
