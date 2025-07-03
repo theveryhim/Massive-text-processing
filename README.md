@@ -17,27 +17,12 @@ Some of tasks done in this Repo([papers' dataset](https://drive.google.com/file/
 
 - Extract and display 20 frequently used words in the abstract section of the article.
 ```markdown
-20 most frequent words in abstract:
+5 most frequent words in abstract:
 model : 1188676
 data : 917131
 results : 859049
 show : 831879
 using : 809828
-also : 774216
-two : 719284
-models : 686537
-paper : 650231
-study : 596891
-method : 596084
-quantum : 573410
-system : 559067
-new : 550050
-field : 544587
-based : 527532
-one : 518005
-time : 506071
-different : 497350
-present : 477899
 ```
 - Find the articles in which the word algorithm is mentioned in their abstract. 
 - Count the number of words in the abstract of this article 
